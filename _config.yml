@@ -14,7 +14,7 @@ author :
   email : josh@offload.dev
   feedburner : nil
 
-production_url : https://offload-dev.github.io/
+production_url : https://www.offload.dev
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -48,7 +48,7 @@ JB :
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
-  BASE_PATH : https://offload-dev.github.io/
+  BASE_PATH : https://www.offload.dev
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
